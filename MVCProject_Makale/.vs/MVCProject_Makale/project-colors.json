@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc267292-747f-4423-9adb-636b5402c7f4": {
+      "ProjectGuid": "fc267292-747f-4423-9adb-636b5402c7f4",
+      "DisplayName": "MVCProject_Makale",
+      "ColorIndex": 0
+    },
+    "53a7aa5b-a943-4eb7-bd48-438bfb78646b": {
+      "ProjectGuid": "53a7aa5b-a943-4eb7-bd48-438bfb78646b",
+      "DisplayName": "Makale.DataAccsessLayer",
+      "ColorIndex": 1
+    },
+    "5225b833-e528-4388-af29-239bff9c797e": {
+      "ProjectGuid": "5225b833-e528-4388-af29-239bff9c797e",
+      "DisplayName": "Makale.Entities",
+      "ColorIndex": 2
+    },
+    "c354543a-757c-45cd-b05d-8217dc5c02f3": {
+      "ProjectGuid": "c354543a-757c-45cd-b05d-8217dc5c02f3",
+      "DisplayName": "Makale.BusinessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

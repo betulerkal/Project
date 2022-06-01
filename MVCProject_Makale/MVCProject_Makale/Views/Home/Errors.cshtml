@@ -1,0 +1,23 @@
+﻿<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        @{ 
+            Exception ex = null;
+            if (TempData["Error"]!=null)
+            {
+                ex = (Exception)TempData["Error"];
+            }
+        }
+        <h1>
+            <span class="glyphicon glyphicon-remove-circle"></span> Hata Oluştu
+        </h1>
+        <p>
+            Hata Oluştu
+            <br /><br />
+            @if (ex!=null)
+            {
+                @ex.Message;
+            }
+        </p>
+    </div>
+</div>
+

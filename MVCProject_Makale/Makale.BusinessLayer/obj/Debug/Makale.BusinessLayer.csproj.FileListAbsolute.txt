@@ -1,0 +1,59 @@
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.dll.config
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.pdb
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.Entities.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.pdb
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.dll.config
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.Entities.pdb
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.CopyComplete
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.pdb
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.dll.config
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.pdb
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.Entities.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.pdb
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.dll.config
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.Entities.pdb
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.CopyComplete
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.dll.config
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.BusinessLayer.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.Entities.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.DataAccsessLayer.dll.config
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.Entities.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.csproj.CopyComplete
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\obj\Debug\Makale.BusinessLayer.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.Common.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.BusinessLayer\bin\Debug\Makale.Common.pdb

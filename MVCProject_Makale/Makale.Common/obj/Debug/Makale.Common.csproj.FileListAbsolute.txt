@@ -1,0 +1,6 @@
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Common\bin\Debug\Makale.Common.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Common\bin\Debug\Makale.Common.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Common\obj\Debug\Makale.Common.csproj.AssemblyReference.cache
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Common\obj\Debug\Makale.Common.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Common\obj\Debug\Makale.Common.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Common\obj\Debug\Makale.Common.pdb

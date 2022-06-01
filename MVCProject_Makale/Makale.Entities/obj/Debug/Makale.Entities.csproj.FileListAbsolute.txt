@@ -1,0 +1,20 @@
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.Entities\bin\Debug\Makale.Entities.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.Entities\bin\Debug\Makale.Entities.pdb
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.dll
+C:\Users\403BETUL_SABAH\source\repos\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.pdb
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.Entities\bin\Debug\Makale.Entities.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.Entities\bin\Debug\Makale.Entities.pdb
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.csproj.AssemblyReference.cache
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.csproj.CoreCompileInputs.cache
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.dll
+C:\Users\betul\OneDrive\Masaüstü\Betül Erkal\C# Dersleri\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\bin\Debug\Makale.Entities.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\bin\Debug\Makale.Entities.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.csproj.AssemblyReference.cache
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\bin\Debug\Makale.Common.dll
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\bin\Debug\Makale.Common.pdb
+C:\Users\403BETUL_SABAH\Desktop\MVCProject_Makale\Makale.Entities\obj\Debug\Makale.Entities.csproj.CopyComplete
