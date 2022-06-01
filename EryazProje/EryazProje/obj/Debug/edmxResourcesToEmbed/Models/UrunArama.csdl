@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UrunAramaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Kategoriler">
+    <Key>
+      <PropertyRef Name="KategoriId" />
+    </Key>
+    <Property Name="KategoriId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KategoriAdi" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Urunler" Relationship="UrunAramaModel.FK_Urunler_Kategoriler" FromRole="Kategoriler" ToRole="Urunler" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="Soyad" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="KullaniciAdi" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="70" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sifre" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Urunler">
+    <Key>
+      <PropertyRef Name="UrunId" />
+    </Key>
+    <Property Name="UrunId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UrunAdi" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UrunAciklamasi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="UrunFiyati" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="KategoriId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kategoriler" Relationship="UrunAramaModel.FK_Urunler_Kategoriler" FromRole="Urunler" ToRole="Kategoriler" />
+  </EntityType>
+  <EntityContainer Name="UrunAramaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kategoriler" EntityType="Self.Kategoriler" />
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" />
+    <EntitySet Name="Urunler" EntityType="Self.Urunler" />
+    <FunctionImport Name="KategoriDuzenle">
+      <Parameter Name="KategoriId" Mode="In" Type="Int32" />
+      <Parameter Name="KategoriAdi" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="KategoriEkle">
+      <Parameter Name="KategoriId" Mode="In" Type="Int32" />
+      <Parameter Name="KategoriAdi" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="KategoriListele" ReturnType="Collection(UrunAramaModel.KategoriListele_Result)" />
+    <FunctionImport Name="KategoriSil">
+      <Parameter Name="KategoriId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="UrunDuzenle">
+      <Parameter Name="UrunId" Mode="In" Type="Int32" />
+      <Parameter Name="UrunAdi" Mode="In" Type="String" />
+      <Parameter Name="UrunAciklamasi" Mode="In" Type="String" />
+      <Parameter Name="UrunFiyati" Mode="In" Type="Decimal" />
+      <Parameter Name="KategoriId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="UrunEkle">
+      <Parameter Name="UrunId" Mode="In" Type="Int32" />
+      <Parameter Name="UrunAdi" Mode="In" Type="String" />
+      <Parameter Name="UrunAciklamasi" Mode="In" Type="String" />
+      <Parameter Name="UrunFiyati" Mode="In" Type="Decimal" />
+      <Parameter Name="KategoriId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="UrunListele" ReturnType="Collection(UrunAramaModel.UrunListele_Result)" />
+    <FunctionImport Name="UrunSil">
+      <Parameter Name="UrunId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <EntitySet Name="sysdiagrams" EntityType="UrunAramaModel.sysdiagrams" />
+    <AssociationSet Name="FK_Urunler_Kategoriler" Association="UrunAramaModel.FK_Urunler_Kategoriler">
+      <End Role="Kategoriler" EntitySet="Kategoriler" />
+      <End Role="Urunler" EntitySet="Urunler" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(UrunAramaModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(UrunAramaModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="KategoriListele_Result">
+    <Property Type="Int32" Name="KategoriId" Nullable="false" />
+    <Property Type="String" Name="KategoriAdi" Nullable="false" MaxLength="150" />
+  </ComplexType>
+  <ComplexType Name="UrunListele_Result">
+    <Property Type="Int32" Name="UrunId" Nullable="false" />
+    <Property Type="String" Name="UrunAdi" Nullable="false" MaxLength="250" />
+    <Property Type="String" Name="UrunAciklamasi" Nullable="true" />
+    <Property Type="Decimal" Name="UrunFiyati" Nullable="false" Precision="19" />
+    <Property Type="Int32" Name="KategoriId" Nullable="false" />
+  </ComplexType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Urunler_Kategoriler">
+    <End Type="UrunAramaModel.Kategoriler" Role="Kategoriler" Multiplicity="1" />
+    <End Type="UrunAramaModel.Urunler" Role="Urunler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategoriler">
+        <PropertyRef Name="KategoriId" />
+      </Principal>
+      <Dependent Role="Urunler">
+        <PropertyRef Name="KategoriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

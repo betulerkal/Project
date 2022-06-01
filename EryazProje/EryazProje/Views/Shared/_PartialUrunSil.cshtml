@@ -1,0 +1,60 @@
+﻿@model EryazProje.Models.UrunlerveKategoriler
+
+<div class="col-md-4">
+    <h3>Ürün Sil</h3>
+    <h4>Silmek istediğinize emin misiniz?</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-12">
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.UrunAdi)
+                </dt>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UrunAciklamasi)
+                </dt>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UrunFiyati)
+                </dt>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.KategoriId)
+                </dt>
+
+                @foreach (var item in Model)
+                {
+                    <dd>
+                        @Html.DisplayFor(model => item.UrunAdi)
+                    </dd>
+                    <dd>
+                        @Html.DisplayFor(model => item.UrunAciklamasi)
+                    </dd>
+                    <dd>
+                        @Html.DisplayFor(model => item.UrunFiyati)
+                    </dd>
+                    <dd>
+                        @Html.DisplayFor(model => item.KategoriAdi)
+                    </dd>
+                }
+
+            </dl>
+        </div>
+        <div class="col-md-12">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-actions no-color">
+                    <button type="submit" class="btn btn-danger">
+                        <span class="glyphicon glyphicon-floppy-remove"></span>
+                        Sil
+                    </button>
+
+                </div>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,35 @@
+﻿@model EryazProje.Models.Kategoriler
+
+<div class="col-md-4">
+    <h3>Kategori Sil</h3>
+    <hr />
+    <div class="row">
+        <div class="col-md-12">
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.KategoriAdi)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.KategoriAdi)
+                </dd>
+
+            </dl>
+        </div>
+        <div class="col-md-12">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-actions no-color">
+                    <button type="submit" class="btn btn-danger">
+                        <span class="glyphicon glyphicon-floppy-remove"></span>
+                        Sil
+                    </button>
+
+                </div>
+            }
+        </div>
+    </div>
+</div>

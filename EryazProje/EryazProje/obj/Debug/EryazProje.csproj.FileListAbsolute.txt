@@ -1,0 +1,380 @@
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\EryazProje.dll.config
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\EryazProje.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\EryazProje.pdb
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\csc.exe
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\csc.exe.config
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\csc.rsp
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\csi.exe
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\csi.exe.config
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\csi.rsp
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.AppContext.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Console.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Net.Http.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\vbc.exe
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\vbc.exe.config
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\vbc.rsp
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Helpers.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Mvc.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Razor.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Webpages.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Razor.xml
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Webpages.xml
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Helpers.xml
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\System.Web.Mvc.xml
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.AssemblyReference.cache
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CopyComplete
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\obj\Debug\EryazProje.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\obj\Debug\EryazProje.pdb
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\EntityFramework.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\EntityFramework.SqlServer.dll
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\EntityFramework.xml
+C:\Users\403BETUL_SABAH\source\repos\EryazProje\EryazProje\bin\EntityFramework.SqlServer.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\EryazProje.dll.config
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\EryazProje.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\EryazProje.pdb
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\csc.exe
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\csc.exe.config
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\csc.rsp
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\csi.exe
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\csi.exe.config
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\csi.rsp
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.AppContext.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Console.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Net.Http.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\vbc.exe
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\vbc.exe.config
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\vbc.rsp
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\EntityFramework.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\EntityFramework.SqlServer.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Helpers.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Mvc.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Razor.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Webpages.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\EntityFramework.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\EntityFramework.SqlServer.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Razor.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Webpages.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Helpers.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\System.Web.Mvc.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.AssemblyReference.cache
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CoreCompileInputs.cache
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CopyComplete
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\obj\Debug\EryazProje.dll
+C:\Users\betul\OneDrive\Masaüstü\EryazProje\EryazProje\obj\Debug\EryazProje.pdb
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\EryazProje.dll.config
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\EryazProje.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\EryazProje.pdb
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\csc.exe
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\csc.exe.config
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\csc.rsp
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\csi.exe
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\csi.exe.config
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\csi.rsp
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.AppContext.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Console.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Net.Http.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\vbc.exe
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\vbc.exe.config
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\vbc.rsp
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\EntityFramework.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\EntityFramework.SqlServer.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Helpers.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Mvc.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Razor.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Webpages.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\EntityFramework.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\EntityFramework.SqlServer.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Razor.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Webpages.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Helpers.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\System.Web.Mvc.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.AssemblyReference.cache
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CopyComplete
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\obj\Debug\EryazProje.dll
+C:\Users\403BETUL_SABAH\Desktop\EryazProje\EryazProje\obj\Debug\EryazProje.pdb
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\EryazProje.dll.config
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\EryazProje.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\EryazProje.pdb
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\csc.exe
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\csc.exe.config
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\csc.rsp
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\csi.exe
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\csi.exe.config
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\csi.rsp
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.AppContext.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Console.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Net.Http.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\vbc.exe
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\vbc.exe.config
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\vbc.rsp
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\EntityFramework.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\EntityFramework.SqlServer.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Helpers.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Mvc.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Razor.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Webpages.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\EntityFramework.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\EntityFramework.SqlServer.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Razor.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Webpages.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Helpers.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\System.Web.Mvc.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.AssemblyReference.cache
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CopyComplete
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\obj\Debug\EryazProje.dll
+C:\Users\403BETUL_SABAH\Desktop\proje\EryazProje\EryazProje\obj\Debug\EryazProje.pdb
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.AssemblyReference.cache
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CoreCompileInputs.cache
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\obj\Debug\EryazProje.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\obj\Debug\EryazProje.pdb
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\EryazProje.dll.config
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\EryazProje.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\EryazProje.pdb
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\csc.exe
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\csc.exe.config
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\csc.rsp
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\csi.exe
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\csi.exe.config
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\csi.rsp
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.AppContext.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Console.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Net.Http.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\vbc.exe
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\vbc.exe.config
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\vbc.rsp
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\EntityFramework.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\EntityFramework.SqlServer.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Helpers.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Mvc.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Razor.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Webpages.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\EntityFramework.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\EntityFramework.SqlServer.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Razor.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Webpages.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Helpers.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\System.Web.Mvc.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\403BETUL_SABAH\Desktop\Betül Erkal Projeler\EryazProje\EryazProje\obj\Debug\EryazProje.csproj.CopyComplete

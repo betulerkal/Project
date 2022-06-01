@@ -1,0 +1,143 @@
+﻿@model EryazProje.Models.Kategoriler
+
+@using (Html.BeginForm("KategoriEkle", "Kategoriler", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="container">
+        <div class="modal" id="ModalEkle" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3>Kategori Ekle</h3>
+                        <button class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.KategoriAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.KategoriAdi, new { htmlAttributes = new { @class = "form-control" } })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="form-group container">
+                            <div style="float:left">
+                                <button type="submit" class="btn btn-success">
+                                    <span class="glyphicon glyphicon-floppy-saved"></span>
+                                    Kaydet
+                                </button>
+                            </div>
+                            <div style="float:right">
+                                <button class="btn btn-dark" data-dismiss="modal">
+                                    <span class="glyphicon glyphicon-floppy-saved"></span>
+                                    Kapat
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+
+
+
+
+
+
+@*var notid = -1;
+    $(function () {
+        $('#ModalEkle').on('show.bs.modal', function (e) {
+            notid = $(e.relatedTarget).data("notid");   //related target butonu yakalamak için
+            $("#modal-body").load("/Kategoriler/YeniGoster/" + notid);
+        })
+    })
+    function kategoriislem(btn, islem, spanid) {
+        var mode = $(btn).data("create-mode")
+        if (islem == "insertislem") {
+            $.ajax({
+                method: "POST",
+                url: "/Kategoriler/KategoriEkle/"
+            }).done(function (data) {
+                if (data.sonuc) {   //ekleme gerçekleştiyse yorumlar tekrar yüklenir
+                    $("#modal-body").load("/Kategoriler/YeniGoster/" + notid);
+                }
+                else {
+                    alert("Kategori eklenemedi.")
+                }
+            }).fail(function () {
+                alert("Sunucu ile bağlantı kurulamadı.")
+            })
+        }
+        //else if (islem == "deleteislem") {
+        //    var mesaj = confirm("Yorum silinsin mi?")
+        //    if (!mesaj) {
+        //        return false;
+        //    }
+        //    $.ajax({
+        //        method: "GET",
+        //        url: "/Comment/Delete/" + yorumid
+        //    }).done(function (data) {
+        //        if (data.sonuc) {   //silme gerçekleştiyse yorumlar tekrar yüklenir
+        //            $("#modal-body").load("/Comment/YorumGoster/" + notid);
+        //        }
+        //        else {
+        //            alert("Yorum silinemedi.")
+        //        }
+        //    }).fail(function () {
+        //        alert("Sunucu ile bağlantı kurulamadı.")
+        //    })
+        //}
+        //else if (islem == "insertislem") {
+        //    var txt = $("#yorum_text").val();
+        //    $.ajax({
+        //        method: "POST",
+        //        url: "/Comment/Create/",
+        //        data: { "text": txt, "notid": notid }
+        //    }).done(function (data) {
+        //        if (data.sonuc) {   //ekleme gerçekleştiyse yorumlar tekrar yüklenir
+        //            $("#modal-body").load("/Comment/YorumGoster/" + notid);
+        //        }
+        //        else {
+        //            alert("Yorum eklenemedi.")
+        //        }
+        //    }).fail(function () {
+        //        alert("Sunucu ile bağlantı kurulamadı.")
+        //    })
+        //}
+    }*@
+
+@*<div class="col-md-4">
+        <h3>Kategori Ekle</h3>
+        <hr />
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                <hr />
+                @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.KategoriAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.KategoriAdi, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <button type="submit" class="btn btn-success">
+                            <span class="glyphicon glyphicon-floppy-saved"></span>
+                            Kaydet
+                        </button>
+
+                    </div>
+                </div>
+
+            </div>
+        }
+    </div>
+    <link href="~/Content/validation-summary.css" rel="stylesheet" />*@

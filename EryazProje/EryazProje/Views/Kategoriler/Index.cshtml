@@ -1,0 +1,217 @@
+﻿@model EryazProje.Models.Kategoriler
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <h2 style="color:darkred">Kategoriler</h2>
+    </div>
+</div>
+<div class="row" style="margin-top:1%">
+    <div class="col-md-10 col-md-offset-1">
+        <p>
+            <button class="btn btn-primary" data-toggle="modal" data-target="#ModalEkle">
+                <span class="glyphicon glyphicon-plus"></span> <b>Yeni</b>
+            </button>
+        </p>
+    </div>
+</div>
+<div class="row" style="margin-top:1%">
+    <div class="col-md-10 col-md-offset-1">
+
+        <table class="table" id="tbl">
+            <thead>
+                <tr>
+                    <td>KategoriAdi</td>
+                </tr>
+            </thead>
+            <tbody id="SetKategoriList">
+                <tr id="Load"></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@using (Html.BeginForm("KategoriEkle", "Kategoriler", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="container">
+        <div class="modal" id="ModalEkle" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3>Kategori Ekle</h3>
+                        <button class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.KategoriAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.KategoriAdi, new { htmlAttributes = new { @class = "form-control" } })
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="modal-footer">
+                        <div class="form-group container">
+                            <div style="float:left">
+                                <button class="btn btn-success">
+                                    <span class="glyphicon glyphicon-floppy-saved"></span>
+                                    Kaydet
+                                </button>
+                                <button class="btn btn-danger" data-dismiss="modal">
+                                    Kapat
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+@using (Html.BeginForm("KategoriDuzenle", "Kategoriler", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="container">
+        <div class="modal" id="ModalDuzenle" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3>Kategori Düzenle</h3>
+                        <button class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        @Html.HiddenFor(model => model.KategoriId, new { @id = "id" })
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.KategoriAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @*@Html.TextBoxFor(model => model.KategoriAdi, new { @id = "kategori", @class = "form-control" })*@
+
+                                @Html.EditorFor(model => model.KategoriAdi, new { htmlAttributes = new { @id = "kategori", @class = "form-control" } })
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="modal-footer">
+                        <div class="form-group container">
+                            <div style="float:left">
+                                <button class="btn btn-success">
+                                    <span class="glyphicon glyphicon-floppy-saved"></span>
+                                    Kaydet
+                                </button>
+                                <button class="btn btn-danger" data-dismiss="modal">
+                                    Kapat
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+@using (Html.BeginForm("KategoriSil", "Kategoriler", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="container">
+        <div class="modal" id="ModalSil" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3>Kategori Sil</h3>
+                        <button class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        @Html.HiddenFor(model => model.KategoriId, new { @id = "id2" })
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.KategoriAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @*@Html.TextBoxFor(model => model.KategoriAdi, new { @id = "kategori", @class = "form-control" })*@
+
+                                @Html.EditorFor(model => model.KategoriAdi, new { htmlAttributes = new { @id = "kategori2", @class = "form-control" } })
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="modal-footer">
+                        <div class="form-group container">
+                            <div style="float:left">
+                                <button class="btn btn-danger">
+                                    <span class="glyphicon glyphicon-trash"></span>
+                                    Sil
+                                </button>
+                                <button class="btn btn-default" data-dismiss="modal">
+                                    İptal
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+<script>
+    $("#Load").html("Yükleniyor...");
+    $.get("/Kategoriler/GetKategoriList", null, DataBind)
+
+    function DataBind(liste) {
+        var setData = $("#SetKategoriList");
+        for (var i = 0; i < liste.length; i++) {
+            var data = "<tr>" +
+                "<td>" + liste[i].KategoriAdi + "</td>" +
+                "<td>" +
+                "<button class='btn btn-warning btn-xs' onclick='EditKategori(" + liste[i].KategoriId + ")' title='Düzenle' >" +
+                "<span class='glyphicon glyphicon-edit'>" + "</span>" +
+                "</button>" + " " +
+                "<button class='btn btn-danger btn-xs' onclick='DeleteKategori(" + liste[i].KategoriId + ")' title='Sil' >" +
+                "<span class='glyphicon glyphicon-trash'>" + "</span>" +
+                "</button>" +
+                "</td>" +
+                "</tr>";
+            setData.append(data);
+            $("#Load").html(" ");
+        }
+    }
+    function EditKategori(KategoriId) {
+
+        var url = "/Kategoriler/GetEditDeleteKategori?KategoriId=" + KategoriId;
+        $("#ModalDuzenle").modal();
+        $.ajax({
+            url: url,
+            type: "get",
+            success: function (data) {
+                //var obj = JSON.parse(data);
+                $("#id").val(data.KategoriId);
+                $("#kategori").val(data.KategoriAdi);
+            }
+
+        });
+    }
+    function DeleteKategori(KategoriId) {
+
+        var url = "/Kategoriler/GetEditDeleteKategori?KategoriId=" + KategoriId;
+        $("#ModalSil").modal();
+        $.ajax({
+            url: url,
+            type: "get",
+            success: function (data) {
+                //var obj = JSON.parse(data);
+                $("#id2").val(data.KategoriId);
+                $("#kategori2").val(data.KategoriAdi);
+            }
+
+        });
+    }
+
+
+</script>
